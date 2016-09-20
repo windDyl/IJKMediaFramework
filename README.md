@@ -1,0 +1,2 @@
+# IJKMediaFramework
+自制IJKPlayer的frameworking
